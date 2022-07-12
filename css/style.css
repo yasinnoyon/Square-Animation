@@ -1,0 +1,16 @@
+.page {
+    margin: 0 auto;
+    padding: 0;
+    width: 1600px;
+    height: 720px;
+    /* background-color: gray; */
+}
+
+#blue-square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    left: 0;
+    top: 50px;
+}
